@@ -3,7 +3,7 @@
     "short_name": "AOR",
     "id": "/",
     "start_url": "index.html",
-    "orientation": "any",
+    "orientation": "portrait",
     "description": "Shoe Sales Platform",
     "background_color": "#1310af",
     "theme_color": "#211dfa",
